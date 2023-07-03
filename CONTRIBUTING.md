@@ -4,7 +4,7 @@ Don't know how to start of open source and Contribute to our Open Source Project
 
 The steps to follow to contribute to any projects:
 
-1.  ## Install git
+1.  # Install git
 
     If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
